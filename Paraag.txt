@@ -1,0 +1,16 @@
+Typical c environment
+A typical c environment consists of 5 disks namely editor, preprocessor, compiler, linker and a loader. 
+Editor
+The programmer creates a program and stores it on a disk called the editor disk.
+Preprocessor
+the preprocessor program processes the code
+Compiler
+It creates an object code and stores it on the disk
+Linker
+It links the object code with the library 
+loader
+it puts the program in the memory
+
+
+
+
