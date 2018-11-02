@@ -1,0 +1,32 @@
+in the addition program what is #
+int main( void )
+why is void written in between the brackets?
+scanf( "%d", &integer1 ); 
+why is there "&" before integer1?
+
+--------------------------------------------------------------------------------------------------
+answers to day2 question
+
+1) variable 
+   they are simply names used to refer locations in a memory.
+2) "int" is the type of variable used in the above program.
+3) "int", "float" etc are the common type of variables.
+
+Addition program
+#include<stdio.h>
+int main(void)
+{
+    int n1;
+    int n2;
+    int sum;
+
+    printf("Enter the first number: \n");
+    scanf("%d",&n1);
+    printf("Enter the second number: \n");
+    scanf("%d",&n2);
+    sum = n1 + n2;
+    printf("The sum of the 2 numbers are %d",sum);
+    return 0;
+
+}
+
