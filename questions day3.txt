@@ -1,0 +1,7 @@
+return_type function_name( parameter list ) {
+   body of the function
+}
+question:
+ 
+why has {} been used and not any other brackets?
+what is the difference between () and {} ?
